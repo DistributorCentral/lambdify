@@ -1275,10 +1275,10 @@ eslint-config-prettier@^4.1.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-jest@^22.1.1:
-  version "22.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-22.3.0.tgz#a10f10dedfc92def774ec9bb5bfbd2fb8e1c96d2"
-  integrity sha512-P1mYVRNlOEoO5T9yTqOfucjOYf1ktmJ26NjwjH8sxpCFQa6IhBGr5TpKl3hcAAT29hOsRJVuMWmTsHoUVo9FoA==
+eslint-plugin-jest@^22.6.0:
+  version "22.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-22.6.0.tgz#2f2818f65ed46de8a64363a7b9fff46739478a6b"
+  integrity sha512-bhQ2jm02ozM7Eki68BA6Hv7fnEL0g92Bu3zVUDEGV2LkmZ9AJRs5M497+3bCPb8GQeC3qBNoi1s9wPA5aEkryw==
 
 eslint-scope@^4.0.3:
   version "4.0.3"
